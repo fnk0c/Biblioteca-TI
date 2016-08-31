@@ -9,6 +9,10 @@
 * [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
 * [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
 
+### Haskell
+* [Aprender Haskell será um grande bem para você](http://haskell.tailorfontela.com.br/)
+
+
 ### Java
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf)
 * [Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
