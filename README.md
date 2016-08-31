@@ -1,15 +1,29 @@
 ### Livros sobre Programação, pentest, filosofia e matematica
+### Android
+* [K41 @ Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
+
+
 ### C
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
 * [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
 * [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
 
+### Haskell
+* [Aprender Haskell será um grande bem para você](http://haskell.tailorfontela.com.br/)
+
+
+### Java
+* [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf)
+* [Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
 
 ### Python
 * [Python para desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
 * [Python para hackers e pentesters(portugues)](https://mega.nz/#!BwQWEC7C!pQoCEuoqSGeHWJWiVqIH7NWZTLi0G0TkrcyT7KwiMqw)
 * [Aprenda computação com python 3](rodrigor.dcx.ufpb.br/_media/.../19939680-aprendacomputaocompython3k.pdf)
+* [Python Orientado a Objetos](http://www.dcc.ufrj.br/~fabiom/mab225/pythonoo.pdf)
+* [Python e Django](https://osantana.me/curso-de-python-e-django/)
+* [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 
 ### Shell Script
 * [Um passeio pelo shell script](https://mega.nz/#!ptZiHJga!XdR7XVgMlrmFbsZ06EnNemcXNK42wKG49DGVaMq0lWY)
