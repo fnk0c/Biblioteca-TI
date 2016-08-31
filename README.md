@@ -1,4 +1,8 @@
 ### Livros sobre Programação, pentest, filosofia e matematica
+### Android
+* [K41 @ Desenvolvimento Mobile com Android] (http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
+
+
 ### C
 * [Introdução a Programação](https://github.com/edusantana/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
