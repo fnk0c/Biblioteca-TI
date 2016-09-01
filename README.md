@@ -21,7 +21,9 @@
 * [Python para desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
 * [Python para hackers e pentesters(portugues)](https://mega.nz/#!BwQWEC7C!pQoCEuoqSGeHWJWiVqIH7NWZTLi0G0TkrcyT7KwiMqw)
 * [Aprenda computação com python 3](rodrigor.dcx.ufpb.br/_media/.../19939680-aprendacomputaocompython3k.pdf)
-* [Python Orientado a Objetos](http://www.dcc.ufrj.br/~fabiom/mab225/pythonoo.pdf)
+* [Introdução a Python - Módulo A](http://www.dcc.ufrj.br/~fabiom/mab225/pythonbasico.pdf)
+* [Introdução a Python - Módulo B](http://www.dcc.ufrj.br/~fabiom/mab225/pythonoo.pdf)
+* [Introdução a Python - Módulo C](http://www.dcc.ufrj.br/~fabiom/mab225/tutorialtkinter.pdf)
 * [Python e Django](https://osantana.me/curso-de-python-e-django/)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 
