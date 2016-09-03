@@ -27,6 +27,9 @@
 * [Python e Django](https://osantana.me/curso-de-python-e-django/)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 
+### Perl
+* [Perl básico - Heitor Gouvêa](https://github.com/GouveaHeitor/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
+
 ### Shell Script
 * [Um passeio pelo shell script](https://mega.nz/#!ptZiHJga!XdR7XVgMlrmFbsZ06EnNemcXNK42wKG49DGVaMq0lWY)
 * [Introdução ao shell script](https://mega.nz/#!4kQCDYLY!RX6rpRbXG8bWVsajcm8zVn3t3WVi_MBpmB4Ep1X7LDU)
