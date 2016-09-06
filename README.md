@@ -27,6 +27,9 @@
 * [Python e Django](https://osantana.me/curso-de-python-e-django/)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 
+### JavaScript
+* [Eloquente JavaScript](http://braziljs.github.io/eloquente-javascript/)
+
 ### Perl
 * [Perl básico - Heitor Gouvêa](https://github.com/GouveaHeitor/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
 
