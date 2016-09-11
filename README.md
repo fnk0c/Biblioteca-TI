@@ -1,4 +1,4 @@
-### Livros sobre Programação, pentest, filosofia e matematica
+### Livros sobre Programação, pentest, linux, filosofia e matematica
 ### Android
 * [K41 @ Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
 
@@ -52,6 +52,12 @@
 ### LISP
 * [Introdução LISP](https://mega.nz/#!YkxySRTL!XG2-UTl1L_bU2tnF2T6lPQ5N0ekJ76ba5WX2kbTOlSA)
 
+### Linux
+
+* [Guia Foca - Iniciante](http://www.guiafoca.org/cgs/download/iniciante/focalinux1-pdf.zip)
+* [Guia Foca - Intermediário](http://www.guiafoca.org/cgs/download/intermediario/focalinux2-pdf.zip)
+* [Guia Foca - Iniciante+Intermedirário](http://www.guiafoca.org/cgs/download/inic_interm/focalinux12-pdf.zip)
+* [Guia Foca - Avançado](http://www.guiafoca.org/cgs/download/avancado/focalinux3-pdf.zip)
 ### Pentest
 * [Web penetration test(português)](https://mega.nz/#!h5pXkbia!LB2XZlwYT387Z-Ed6ySyMYHebT_XBkB5Z6CObFZO_jg)
 * [Vulnerabilidades e exploits](https://mega.nz/#!NtAUmDjD!SouJS8aO0nZXlbIDi7RUhPzKqsAbJ7q84-p2YrYeuBI)
