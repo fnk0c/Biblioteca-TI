@@ -24,6 +24,7 @@
 * [Introdução a Python - Módulo A](http://www.dcc.ufrj.br/~fabiom/mab225/pythonbasico.pdf)
 * [Introdução a Python - Módulo B](http://www.dcc.ufrj.br/~fabiom/mab225/pythonoo.pdf)
 * [Introdução a Python - Módulo C](http://www.dcc.ufrj.br/~fabiom/mab225/tutorialtkinter.pdf)
+* [Curso de Python Orientado a Objetos](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxhm8AfK1nDMWPDYXtmVQN-z)
 * [Python e Django](https://osantana.me/curso-de-python-e-django/)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 
