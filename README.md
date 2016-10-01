@@ -35,8 +35,9 @@
 * [Perl básico - Heitor Gouvêa](https://github.com/GouveaHeitor/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
 
 ### Shell Script
-* [Um passeio pelo Shell Script](https://mega.nz/#!ptZiHJga!XdR7XVgMlrmFbsZ06EnNemcXNK42wKG49DGVaMq0lWY)
+* [Introdução ao Shell Script - DevMidia](http://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778)
 * [Introdução ao Shell Script](https://mega.nz/#!4kQCDYLY!RX6rpRbXG8bWVsajcm8zVn3t3WVi_MBpmB4Ep1X7LDU)
+* [Um passeio pelo Shell Script](https://mega.nz/#!ptZiHJga!XdR7XVgMlrmFbsZ06EnNemcXNK42wKG49DGVaMq0lWY)
 * [Shell Script - Básico](https://mega.nz/#!wgAFGQCB!GajkhD6GcmWMfW-BcrNKbyOp89AFcNGFpN8HxzEEpIg)
 
 ### LUA
