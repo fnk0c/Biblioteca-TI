@@ -35,8 +35,9 @@
 * [Perl básico - Heitor Gouvêa](https://github.com/GouveaHeitor/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
 
 ### Shell Script
-* [Um passeio pelo Shell Script](https://mega.nz/#!ptZiHJga!XdR7XVgMlrmFbsZ06EnNemcXNK42wKG49DGVaMq0lWY)
+* [Introdução ao Shell Script - DevMidia](http://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778)
 * [Introdução ao Shell Script](https://mega.nz/#!4kQCDYLY!RX6rpRbXG8bWVsajcm8zVn3t3WVi_MBpmB4Ep1X7LDU)
+* [Um passeio pelo Shell Script](https://mega.nz/#!ptZiHJga!XdR7XVgMlrmFbsZ06EnNemcXNK42wKG49DGVaMq0lWY)
 * [Shell Script - Básico](https://mega.nz/#!wgAFGQCB!GajkhD6GcmWMfW-BcrNKbyOp89AFcNGFpN8HxzEEpIg)
 
 ### LUA
@@ -59,7 +60,9 @@
 * [Guia Foca - Intermediário](http://www.guiafoca.org/cgs/download/intermediario/focalinux2-pdf.zip)
 * [Guia Foca - Iniciante+Intermedirário](http://www.guiafoca.org/cgs/download/inic_interm/focalinux12-pdf.zip)
 * [Guia Foca - Avançado](http://www.guiafoca.org/cgs/download/avancado/focalinux3-pdf.zip)
+
 ### Pentest
+
 * [Web penetration test(português)](https://mega.nz/#!h5pXkbia!LB2XZlwYT387Z-Ed6ySyMYHebT_XBkB5Z6CObFZO_jg)
 * [Vulnerabilidades e exploits](https://mega.nz/#!NtAUmDjD!SouJS8aO0nZXlbIDi7RUhPzKqsAbJ7q84-p2YrYeuBI)
 * [Executando pentest com ferramentas de código aberto](https://mega.nz/#!NlJ2CZjC!9TJ6SeMSydSBU-HjNc_Fmqf7bxcmlEuOoIXkSnN5Oq4)
