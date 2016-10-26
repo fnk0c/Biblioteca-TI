@@ -67,12 +67,14 @@
 * [Web penetration test(português)](https://mega.nz/#!h5pXkbia!LB2XZlwYT387Z-Ed6ySyMYHebT_XBkB5Z6CObFZO_jg)
 * [Vulnerabilidades e exploits](https://mega.nz/#!NtAUmDjD!SouJS8aO0nZXlbIDi7RUhPzKqsAbJ7q84-p2YrYeuBI)
 * [Executando pentest com ferramentas de código aberto](https://mega.nz/#!NlJ2CZjC!9TJ6SeMSydSBU-HjNc_Fmqf7bxcmlEuOoIXkSnN5Oq4)
+* [Introdução ao Nmap Scripting Engine [NSE]](https://blog.cienciahacker.ch/introducao-ao-nse/)
 
 ### Analise de Malware
 
 * [Analise de ferramentas para controle de spam](https://mega.nz/#!twgniCjB!EwjAtvI9OXChQGhSQU5QoycjG3z3W6vlPnV6n-fMHAo)
 * [Analise das fraudes aplicadas sobre ambiente de internet banking](https://mega.nz/#!BkAxBLgb!vYEDKeT3xMiTdHr_KxV9WtaMx2TrIIG-S9F4baFBXg4)
 * [Analise de malware](https://mega.nz/#!8gJ2xR7D!NGOedgqAlDVWcrPz2hwS52ag0S0WgIbu-kvHwrlthG4)
+* [Montando um laboratório para análise de malware](https://blog.cienciahacker.ch/montando-um-laboratorio-para-analise-de-malware/)
 
 ### Firewall
 
