@@ -27,6 +27,7 @@
 * [Jogos com Pygame](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxhk5fiUABgLqGig9kNQZ7-k)
 * [Curso de Python Orientado a Objetos](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxhm8AfK1nDMWPDYXtmVQN-z)
 * [Python e Django](https://osantana.me/curso-de-python-e-django/)
+* [Tutorial Djando Girls](https://github.com/Pedro-Souza/Biblioteca-TI)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 
 ### JavaScript
