@@ -1,4 +1,4 @@
-### Livros sobre Programação, pentest, linux, filosofia e matematica
+### Livros sobre Programação, pentest, linux
 ### Android
 * [K41 @ Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
 
