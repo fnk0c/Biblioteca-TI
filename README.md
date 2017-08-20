@@ -32,6 +32,7 @@
 
 ### JavaScript
 * [Eloquente JavaScript](http://braziljs.github.io/eloquente-javascript/)
+* [AngularJS - Loiane](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
 
 ### Perl
 * [Perl básico - Heitor Gouvêa](https://github.com/GouveaHeitor/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
