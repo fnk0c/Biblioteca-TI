@@ -1,4 +1,4 @@
-### Livros sobre Programação, pentest, linux, filosofia e matematica
+### Livros sobre Programação, pentest, linux
 ### Android
 * [K41 @ Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
 
@@ -27,10 +27,12 @@
 * [Jogos com Pygame](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxhk5fiUABgLqGig9kNQZ7-k)
 * [Curso de Python Orientado a Objetos](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxhm8AfK1nDMWPDYXtmVQN-z)
 * [Python e Django](https://osantana.me/curso-de-python-e-django/)
+* [Tutorial Djando Girls](https://github.com/Pedro-Souza/Biblioteca-TI)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 
 ### JavaScript
 * [Eloquente JavaScript](http://braziljs.github.io/eloquente-javascript/)
+* [AngularJS - Loiane](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
 
 ### Perl
 * [Perl básico - Heitor Gouvêa](https://github.com/GouveaHeitor/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
